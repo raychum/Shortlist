@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.openrice.android.shortlist.RoundedImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/shortlist_menu_item_width"
+    android:layout_height="@dimen/shortlist_menu_item_height"
+    android:background="@drawable/shortlist_shape"
+    android:scaleType="centerInside" />

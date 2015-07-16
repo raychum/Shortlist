@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShortlistLayout">
+        <attr name="expandedWidth" format="dimension"/>
+        <attr name="expandedHeight" format="dimension"/>
+        <attr name="rotationDuration" format="integer" />
+        <attr name="translationDuration" format="integer" />
+        <attr name="maxMenuItemSize" format="integer" />
+    </declare-styleable>
+</resources>
